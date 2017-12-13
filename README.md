@@ -1,4 +1,4 @@
 # Функции аткивации в FFNN
 В ноутбуке подробно описаны основные функции активаций, и доступны интерактивные графики, в которых можно изменять веса, оступы для каждого нейрона, наблюдая при этом общий график выхода нейросети. 
 
-<div style="text-align: right">**made by <font color="orange">[@iamlion12](https://t.me/iamlion12)</font>**</div>
+<font align="right">**made by <font color="orange">[@iamlion12](https://t.me/iamlion12)</font>**</font>
