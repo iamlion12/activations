@@ -3,4 +3,4 @@
 
 <font align="right">**made by <font color="orange">[@iamlion12](https://t.me/iamlion12)</font>**</font>
 
-<img src="https://image.ibb.co/cJJcAm/photo1181913689657288621.jpg" alt="Logo" width="350" height="350">
+<img src="https://image.ibb.co/cJJcAm/photo1181913689657288621.jpg" alt="Logo" width="350" height="350" align="center">
